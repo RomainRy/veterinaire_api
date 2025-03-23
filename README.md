@@ -7,10 +7,10 @@ Description du projet
 Ce projet est une API RESTful développée avec Symfony et API Platform pour la gestion d'une clinique vétérinaire. L'API permet de gérer les rendez-vous, les animaux, les traitements et les utilisateurs avec différents niveaux d'autorisation (directeur, vétérinaire, assistant).
 Prérequis
 
-PHP 8.1 ou supérieur
-Composer
-MySQL
-Symfony CLI 
+PHP 8.1 ou supérieur <br>
+Composer <br>
+MySQL <br>
+Symfony CLI <br>
 Postman (pour tester l'API)
 
 Cloner le dépôt :
